@@ -9,5 +9,3 @@ mv ./* ../
 rm -rf ~/pm/${FILENAME}.tar.gz
 rm -rf ~/pm/${FILENAME}
 chmod +x ~/pm/pm
-sudo mv ~/pm/pm /usr/bin/
-sudo ln -s /usr/bin/pm ~/pm/pm
