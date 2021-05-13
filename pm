@@ -1,5 +1,10 @@
 #! /bin/bash
 
+# Power limit
+# 2080Ti 150
+# 3090   290
+# 3080   230
+
 WALLET=""
 ID=""
 POWER_LIMIT="230"
