@@ -1,4 +1,4 @@
-# pm
+# PM
 #
 # Clone
 # git clone http://github.com/hocc2000/pm.git
@@ -6,6 +6,9 @@
 # Install
 # chmod +x ~/pm/install.sh
 # ~/pm/install.sh
+#
+# Config
+# vi 
 #
 # Power Limit
 # 2080Ti 150
