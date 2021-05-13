@@ -3,8 +3,8 @@
 FILENAME="PhoenixMiner_5.6d_Linux"
 
 wget https://phoenixminer.info/downloads/${FILENAME}.tar.gz
-tar xvfz ${FILENAME}.tar.gz
-cd ${FILENAME}
+tar xvfz ~/pm/${FILENAME}.tar.gz
+cd ~/pm/${FILENAME}
 mv ./* ../
-rm -rf ${FILENAME}.tar.gz
-rm -rf ${FILENAME}
+rm -rf ~/pm/${FILENAME}.tar.gz
+rm -rf ~/pm/${FILENAME}
