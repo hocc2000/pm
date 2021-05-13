@@ -6,4 +6,5 @@ wget https://phoenixminer.info/downloads/${FILENAME}.tar.gz
 tar xvfz ${FILENAME}.tar.gz
 cd ${FILENAME}
 mv ./* ../
-rm -rf $FILENAME
+rm -rf ${FILENAME}.tar.gz
+rm -rf ${FILENAME}
