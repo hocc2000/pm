@@ -1,9 +1,11 @@
 # PM
 #
 # Clone
+cd</br>
 git clone http://github.com/hocc2000/pm.git</br>
 #
 # Install
+cd</br>
 cd pm</br>
 chmod +x ~/pm/install.sh</br>
 sh install.sh</br>
