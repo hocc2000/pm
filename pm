@@ -5,7 +5,7 @@
 # 3090   290
 # 3080   230
 
-if [ "$1" = "stop" ]
+if [ "$1" == "stop" ]
 then
     killall PhoenixMiner
 elif [ "$1" != "" ] && [ "$2" != "" ] && [ "$3" != "" ]
