@@ -8,7 +8,7 @@
 if [ "$1" = "stop" ]
 then
     killall PhoenixMiner
-elif [ "$1" = "" ] || [ "$2" = "" ] || [ "$3" = "" ]
+elif [ "$1" != "" ] && [ "$2" != "" ] && [ "$3" = "" ]
 then
     sudo nvidia-smi -pm 1
     sudo nvidia-smi -pl $3
