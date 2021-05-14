@@ -10,6 +10,10 @@ cd pm</br>
 chmod +x ~/pm/install.sh</br>
 sh install.sh</br>
 #
+# Run
+pm WALLET NUM POWER-LIMIT</br>
+pm stop</br>
+#
 # Power Limit
 2080Ti 150</br>
 3090   290</br>
