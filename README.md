@@ -11,7 +11,7 @@ chmod +x ~/pm/install.sh</br>
 sh install.sh</br>
 #
 # Run
-pm WALLET NUM POWER-LIMIT</br>
+pm start</br>
 pm stop</br>
 #
 # Power Limit
